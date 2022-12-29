@@ -27,7 +27,9 @@
   
   * **Repository:**  https://github.com/DataIsGone/HabloGato
  
-  * **My Contributions:**  I did a lot of the coding in the [Scripts](https://github.com/DataIsGone/HabloGato/tree/main/Assets/Scripts) folder, which consisted of game logic, game audio, and voice recognition scripts. But the work I am most proud of is the [Voice Recognition](https://github.com/DataIsGone/HabloGato/blob/main/Assets/Scripts/Voice/VoiceRecord.cs) script, which took me a few weeks to research and then implement into the game using Azure Cognitive Services. It allowed the user to speak to the characters in the game and continue the story if their pronunciation of a word or phrase was good enough. 
+  * **My Contributions:**  I did a lot of the coding in the [Scripts](https://github.com/DataIsGone/HabloGato/tree/main/Assets/Scripts) folder, which consisted of game logic, game audio, and voice recognition scripts. 
+ 
+ But the work I am most proud of is the [Voice Recognition](https://github.com/DataIsGone/HabloGato/blob/main/Assets/Scripts/Voice/VoiceRecord.cs) script, which took me a few weeks to research and then implement into the game using Azure Cognitive Services. It allowed the user to speak to the characters in the game and continue the story if their pronunciation of a word or phrase was good enough. 
  
   * **Description:**  Hablo Gato is a different take on immersive language learning: instead of directly mimicking real life situations, why not add some roleplaying in the mix? [Click here](https://github.com/DataIsGone/HabloGato) to see more info on this.
  
